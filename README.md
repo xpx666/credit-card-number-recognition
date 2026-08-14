@@ -1,6 +1,6 @@
 # credit-card-number-recognition
 
-## 信用卡数字识别 基于OpenCV模板匹配实现信用卡卡号提取
+##基于OpenCV模板匹配实现信用卡卡号提取
 
 ### 环境依赖
 numpy opencv-python
